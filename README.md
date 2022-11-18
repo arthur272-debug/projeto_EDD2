@@ -5,3 +5,9 @@
 # Linguagem do Projeto: Python
 
 # Informações do Projeto
+
+### Objeto do Trabalho
+
+### Escopo
+
+### Necessidade
