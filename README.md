@@ -6,8 +6,8 @@
 
 # Informações do Projeto
 
-### Objeto do Trabalho
+### Objeto do Trabalho:
 
-### Escopo
+### Escopo:
 
-### Necessidade
+### Necessidade:
