@@ -4,10 +4,6 @@
 
 # Linguagem do Projeto: Python
 
-# Informações do Projeto
+# Estrutura Utilizada
 
-### Objeto do Trabalho:
-
-### Escopo:
-
-### Necessidade:
+# Bibliotecas Utilizadas
