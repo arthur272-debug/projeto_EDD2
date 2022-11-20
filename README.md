@@ -2,7 +2,7 @@
 
 # Linguagem do Projeto: Python
 
-# Estrutura Utilizada
+# Estrutura Utilizada: Grafos 
 
 # Bibliotecas Utilizadas
 
