@@ -8,6 +8,7 @@ https://github.com/arthur272-debug/projeto_EDD2/blob/main/Dados_revisados.csv
 # Bibliotecas Utilizadas
 
 --> MySQLConnect; <br>
---> <br>
---> <br>
---> 
+--> Pandas;<br>
+--> Pydot; <br>
+--> graphlib; e<br>
+--> Networkx;
