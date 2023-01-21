@@ -1,4 +1,4 @@
-index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATORIO_INFORMATICA;IN_PISCINA;IN_QUADRA_ESPORTES;IN_REFEITORIO;IN_SALA_ATELIE_ARTES;IN_SALA_LEITURA;IN_ACESSIBILIDADE_ELEVADOR;IN_INTERNET_APRENDIZAGEM;IN_ACESSO_INTERNET_COMPUTADOR;QT_PROF_PSICOLOGO;Código da Escola;Rede;IDEB
+index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATORIO_INFORMATICA;IN_PISCINA;IN_QUADRA_ESPORTES;IN_REFEITORIO;IN_SALA_ATELIE_ARTES;IN_SALA_LEITURA;IN_ACESSIBILIDADE_ELEVADOR;IN_INTERNET_APRENDIZAGEM;IN_ACESSO_INTERNET_COMPUTADOR;QT_PROF_PSICOLOGO;Codigo da Escola;Rede;IDEB
 0;Angra dos Reis;E M ALEXINA LOWNDES; true;false;false;false;true;true;false;false;false;false;true;0;33036748;Municipal;6,1
 1;Angra dos Reis;E M PROF AMELIA ARAUJO LAGE; true;false; true;false;false;false;false;false;false;false;false;0;33036772;Municipal;5
 2;Angra dos Reis;E M DR LAURO TRAVASSOS; true;false;false;false;false;false;false;false;false;false;false;0;33036780;Municipal;6
@@ -66,7 +66,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 65;Barra Mansa;COLEGIO MUNICIPAL WASHINGTON LUIZ; true; true; true;false;true;true;false;true;false;false;false;0;33029474;Municipal;5,8
 66;Barra Mansa;ESCOLA MUNICIPAL BAIRRO CAJUEIROS;false;false;false;false;false;true;false;true;false;false;false;0;33029601;Municipal;6,5
 67;Barra Mansa;ESCOLA MUNICIPAL LEONEL DE MOURA BRIZOLA;false;false; true;false;false;true;false;true;false;true;true;0;33029636;Municipal;5,7
-68;São João de Meriti;ESCOLA MUNICIPAL LEONEL DE MOURA BRIZOLA;false;false; true;false;true;true;false;true;false;true;true;0;33029636;Municipal;5,7
+68;SÃ£o JoÃ£o de Meriti;ESCOLA MUNICIPAL LEONEL DE MOURA BRIZOLA;false;false; true;false;true;true;false;true;false;true;true;0;33029636;Municipal;5,7
 69;Barra Mansa;ESCOLA MUNICIPAL EULALIA GOUVEA PEREIRA; true;false;false;false;false;true;false;false;false;false;false;0;33029687;Municipal;5,4
 70;Barra Mansa;ESCOLA MUNICIPAL REGINALDO ARAUJO;false;false; true;false;true;true;false;true;false;true;false;0;33029695;Municipal;6,9
 71;Barra Mansa;ESCOLA MUNICIPAL ROTARY CLUBE;false;false;false;false;false;true;false;true;false;true;false;0;33029709;Municipal;5,5
@@ -74,8 +74,8 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 73;Barra Mansa;ESCOLA MUNICIPAL SANTO ANTONIO;false;false;false;false;false;true;false;false;false;true;false;0;33093318;Municipal;5
 74;Japeri;ESCOLA MUNICIPAL SANTO ANTONIO;false;false; true;false;false;true;false;false;false;false;false;0;33029725;Municipal;5,4
 75;Japeri;ESCOLA MUNICIPAL SANTO ANTONIO;false;false; true;false;false;true;false;false;false;false;false;0;33093318;Municipal;5
-76;São João de Meriti;ESCOLA MUNICIPAL SANTO ANTONIO;false;false;false;false;false;true;false;false;false;false;false;0;33029725;Municipal;5,4
-77;São João de Meriti;ESCOLA MUNICIPAL SANTO ANTONIO;false;false;false;false;false;true;false;false;false;false;false;0;33093318;Municipal;5
+76;SÃ£o JoÃ£o de Meriti;ESCOLA MUNICIPAL SANTO ANTONIO;false;false;false;false;false;true;false;false;false;false;false;0;33029725;Municipal;5,4
+77;SÃ£o JoÃ£o de Meriti;ESCOLA MUNICIPAL SANTO ANTONIO;false;false;false;false;false;true;false;false;false;false;false;0;33093318;Municipal;5
 78;Barra Mansa;ESCOLA MUNICIPAL ADELAIDE DUARTE FLORES;false;false;false;false;false;true;false;true;false;true;false;0;33029776;Municipal;4,6
 79;Barra Mansa;ESCOLA MUNICIPAL CARLOS AUGUSTO HAASIS;false;false;false;false;false;true;false;true;false;false;false;0;33029814;Municipal;5,5
 80;Barra Mansa;ESCOLA MUNICIPAL DOUTOR DJAIR MACHADO GOMES;false; true; true;false;true;true;false;true;false;false;true;0;33029857;Municipal;5,9
@@ -113,7 +113,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 112;Belford Roxo;E M JOSE MARIANO DOS PASSOS;false;false; true;false;false;true;false;true;false;true;false;0;33047634;Municipal;4,9
 113;Belford Roxo;E M MIGUEL ANGELO LEONE; true;false; true;false;true;true;false;true;false;false;false;0;33047669;Municipal;4,9
 114;Belford Roxo;E M NOSSA SENHORA DE FATIMA; true;false; true;false;true;true;false;true;false;true;true;0;33018600;Municipal;6,1
-116;Três Rios;E M NOSSA SENHORA DE FATIMA;false;false;false;false;true;true;false;false;false;false;false;0;33018600;Municipal;6,1
+116;TrÃªs Rios;E M NOSSA SENHORA DE FATIMA;false;false;false;false;true;true;false;false;false;false;false;0;33018600;Municipal;6,1
 117;Belford Roxo;E M PROF PARIS;false;false; true;false;true;true;false;true;false;true;true;0;33047731;Municipal;5
 118;Belford Roxo;E M RUDA IGUATEMI VILLANOVA;false;false;false;false;false;true;false;true;false;false;false;0;33047774;Municipal;5,1
 119;Belford Roxo;E M SAO BENTO;false;false; true;false;false;true;false;true;false;false;false;0;33047782;Municipal;4,3
@@ -126,10 +126,10 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 126;Belford Roxo;E M SANTA CRUZ; true;false; true;false;false;true;false;true;false;false;false;0;33096643;Municipal;4,6
 128;Belford Roxo;E M SAO FRANCISCO DE ASSIS;false;false;false;false;true;true;false;true;false;false;false;0;33096996;Municipal;5
 129;Cachoeiras de Macacu;E M SAO FRANCISCO DE ASSIS; true;false; true;false;false;true;true;false;false;false;false;0;33096996;Municipal;5
-130;São Pedro da Aldeia;E M SAO FRANCISCO DE ASSIS;false;false;false;false;false;true;false;true;false;false;false;0;33096996;Municipal;5
+130;SÃ£o Pedro da Aldeia;E M SAO FRANCISCO DE ASSIS;false;false;false;false;false;true;false;true;false;false;false;0;33096996;Municipal;5
 131;Belford Roxo;CIEP MUNICIPALIZADO 217 EDIVAL GUEIROS VIDAL;false;false; true;false;true;true;false;true;false;false;false;0;33098115;Municipal;3,7
 132;Belford Roxo;E M IRMA MARIA FILOMENA LOPES FILHA;false;false; true;false;false;true;false;true;false;false;false;0;33125538;Municipal;4,9
-133;Belford Roxo;E M PROFª MARCIA DE BRITO;false;false; true;false;true;true;false;true;false;false;true;0;33132542;Municipal;4,3
+133;Belford Roxo;E M PROFÂª MARCIA DE BRITO;false;false; true;false;true;true;false;true;false;false;true;0;33132542;Municipal;4,3
 134;Belford Roxo;E M PROFESSORA MARIA DAS DORES FUJJI DA SILVA;false;false;false;false;true;true;false;true;false;false;false;0;33144036;Municipal;5,6
 135;Belford Roxo;E M SARGENTO EUCLIDES ALVES DE ARAUJO;false;false; true;false;false;true;false;false;false;true;false;0;33144060;Municipal;5,8
 136;Belford Roxo;E M JULIO CESAR DE ANDRADE GONCALVES;false;false;false;false;true;true;false;true;false;false;false;0;33151652;Municipal;4,6
@@ -205,10 +205,10 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 210;Comendador Levy Gasparian;E M MARIA SERRAT SOARES; true;false;false;false;true;true;false;false;false;false;false;0;33017042;Municipal;6,9
 211;Comendador Levy Gasparian;E M SAO JOAO BATISTA;false;false;false;false;true;true;false;true;false;true;false;0;33138095;Municipal;6,8
 212;Comendador Levy Gasparian;E M SAO JOAO BATISTA;false;false;false;false;true;true;false;true;false;true;false;0;33128910;Municipal;6
-213;São João de Meriti;E M SAO JOAO BATISTA;false;false;false;false;false;true;false;true;false;false;false;0;33138095;Municipal;6,8
-214;São João de Meriti;E M SAO JOAO BATISTA;false;false;false;false;false;true;false;true;false;false;false;0;33128910;Municipal;6
-215;Três Rios;E M SAO JOAO BATISTA;false;false;false;false;false;false;false;true;false;true;false;0;33138095;Municipal;6,8
-216;Três Rios;E M SAO JOAO BATISTA;false;false;false;false;false;false;false;true;false;true;false;0;33128910;Municipal;6
+213;SÃ£o JoÃ£o de Meriti;E M SAO JOAO BATISTA;false;false;false;false;false;true;false;true;false;false;false;0;33138095;Municipal;6,8
+214;SÃ£o JoÃ£o de Meriti;E M SAO JOAO BATISTA;false;false;false;false;false;true;false;true;false;false;false;0;33128910;Municipal;6
+215;TrÃªs Rios;E M SAO JOAO BATISTA;false;false;false;false;false;false;false;true;false;true;false;0;33138095;Municipal;6,8
+216;TrÃªs Rios;E M SAO JOAO BATISTA;false;false;false;false;false;false;false;true;false;true;false;0;33128910;Municipal;6
 217;Comendador Levy Gasparian;E M NOSSA SENHORA DE MONTE SERRAT;false;false;false;false;false;true;false;false;false;false;false;0;33156417;Municipal;7,2
 218;Campos dos Goytacazes;EM JOAO BORGES BARRETO;false;false; true;false;true;true;false;true;false;false;false;0;33008922;Municipal;4,6
 219;Campos dos Goytacazes;EM MARIO BARROSO;false;false; true;false;false;true;false;true;false;false;false;0;33009031;Municipal;5,2
@@ -262,16 +262,16 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 267;Casimiro de Abreu;ESCOLA MUNICIPALIZADA VILA VERDE; true;false;false;false;false;false;false;false;false;false;false;0;33025436;Municipal;6,1
 268;Casimiro de Abreu;E M PASTOR ABEL DE SOUZA LYRIO;false;false; true;false;true;true;false;true;false;true;true;0;33130949;Municipal;6,8
 269;Casimiro de Abreu;ESCOLA MUNICIPAL PADRE FRANCISCO PERES BLASCO--PADRE PACO; true;false; true;false;false;true;false;true;false;true;true;0;33171246;Municipal;5,5
-270;Conceição de Macabu;E M CURATO DE SANTA CATARINA;false;false; true;false;true;true;false;false;false;false;false;0;33014795;Municipal;5,5
-271;Conceição de Macabu;E E M VICTOR SENCE; true;false;false;false;false;true;false;false;false;false;false;0;33014841;Municipal;5
-272;Conceição de Macabu;E M PAU BRASIL;false;false; true;false;true;true;false;true;false;false;false;0;33014965;Municipal;5,5
-273;Conceição de Macabu;E M PAU DALHO;false;false;false;false;true;true;false;true;false;false;false;0;33014973;Municipal;6,6
-274;Conceição de Macabu;CRECHE ESCOLA MUNICIPAL ALMERINDA DE MATOS HENRIQUE;false;false;false;false;false;true;false;true;false;true;false;1;33014981;Municipal;4,8
-275;Conceição de Macabu;E M ROSA SENCE; true;false; true;false;false;true;false;false;false;false;false;0;33015015;Municipal;4,5
-276;Conceição de Macabu;E M ROZENDO FONTES TAVARES; true;false; true;false;true;true;false;true;false;false;false;0;33015023;Municipal;5,6
-277;Conceição de Macabu;ESCOLA MUNICIPALIZADA UMBELINA AQUINO DE OLIVEIRA; true;false;false;false;false;true;false;true;false;false;false;1;33015112;Municipal;4,6
-278;Conceição de Macabu;CRECHE ESCOLA MUNICIPAL VOVO HAIFA;false;false;false;false;false;true;false;true;false;false;false;0;33098247;Municipal;5,5
-279;Conceição de Macabu;E M FREI VALERIO; true; true; true;false;true;true;false;true;false;true;false;0;33149402;Municipal;5,8
+270;ConceiÃ§Ã£o de Macabu;E M CURATO DE SANTA CATARINA;false;false; true;false;true;true;false;false;false;false;false;0;33014795;Municipal;5,5
+271;ConceiÃ§Ã£o de Macabu;E E M VICTOR SENCE; true;false;false;false;false;true;false;false;false;false;false;0;33014841;Municipal;5
+272;ConceiÃ§Ã£o de Macabu;E M PAU BRASIL;false;false; true;false;true;true;false;true;false;false;false;0;33014965;Municipal;5,5
+273;ConceiÃ§Ã£o de Macabu;E M PAU DALHO;false;false;false;false;true;true;false;true;false;false;false;0;33014973;Municipal;6,6
+274;ConceiÃ§Ã£o de Macabu;CRECHE ESCOLA MUNICIPAL ALMERINDA DE MATOS HENRIQUE;false;false;false;false;false;true;false;true;false;true;false;1;33014981;Municipal;4,8
+275;ConceiÃ§Ã£o de Macabu;E M ROSA SENCE; true;false; true;false;false;true;false;false;false;false;false;0;33015015;Municipal;4,5
+276;ConceiÃ§Ã£o de Macabu;E M ROZENDO FONTES TAVARES; true;false; true;false;true;true;false;true;false;false;false;0;33015023;Municipal;5,6
+277;ConceiÃ§Ã£o de Macabu;ESCOLA MUNICIPALIZADA UMBELINA AQUINO DE OLIVEIRA; true;false;false;false;false;true;false;true;false;false;false;1;33015112;Municipal;4,6
+278;ConceiÃ§Ã£o de Macabu;CRECHE ESCOLA MUNICIPAL VOVO HAIFA;false;false;false;false;false;true;false;true;false;false;false;0;33098247;Municipal;5,5
+279;ConceiÃ§Ã£o de Macabu;E M FREI VALERIO; true; true; true;false;true;true;false;true;false;true;false;0;33149402;Municipal;5,8
 280;Cordeiro;E M RODOLFO GONCALVES; true;false;false;false;false;true;false;true;false;true;false;0;33020256;Municipal;5,2
 281;Cordeiro;E M JOSE PINHO DE CARVALHO; true;false;false;false;true;true;false;false;false;true;false;0;33020310;Municipal;6,3
 282;Cordeiro;E M ZULEIKA J M RODRIGUES; true;false;false;false;true;true;false;false;false;true;false;0;33096791;Municipal;4,4
@@ -292,8 +292,8 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 298;Volta Redonda;E M SERGIPE;false;false; true;false;true;true;false;true;false;true;false;0;33033765;Municipal;6
 299;Duque de Caxias;E M VISCONDE DE ITABORAI;false;false; true;false;true;true;false;true;false;true;true;0;33060134;Municipal;4,8
 300;Duque de Caxias;E M VISCONDE DE ITABORAI;false;false; true;false;true;true;false;true;false;true;true;0;33052409;Municipal;6,4
-301;Nova Iguaçu;E M VISCONDE DE ITABORAI;false;false;false;false;false;true;false;true;false;false;false;0;33060134;Municipal;4,8
-302;Nova Iguaçu;E M VISCONDE DE ITABORAI;false;false;false;false;false;true;false;true;false;false;false;0;33052409;Municipal;6,4
+301;Nova IguaÃ§u;E M VISCONDE DE ITABORAI;false;false;false;false;false;true;false;true;false;false;false;0;33060134;Municipal;4,8
+302;Nova IguaÃ§u;E M VISCONDE DE ITABORAI;false;false;false;false;false;true;false;true;false;false;false;0;33052409;Municipal;6,4
 303;Tangua;E M VISCONDE DE ITABORAI;false;false;false;false;false;false;false;false;false;false;false;0;33060134;Municipal;4,8
 304;Tangua;E M VISCONDE DE ITABORAI;false;false;false;false;false;false;false;false;false;false;false;0;33052409;Municipal;6,4
 305;Duque de Caxias;ESCOLA ESTADUAL MUNICIPALIZADA BAIRRO CALIFORNIA;false;false; true;false;false;true;false;true;false;true;true;0;33049955;Municipal;4,3
@@ -306,8 +306,8 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 312;Duque de Caxias;E M MARCILIO DIAS;false;false;false;false;false;true;false;true;false;false;false;0;33053537;Municipal;5,4
 313;Mage;E M MARCILIO DIAS;false;false;false;false;false;true;false;true;false;true;false;0;33050163;Municipal;4,4
 314;Mage;E M MARCILIO DIAS;false;false;false;false;false;true;false;true;false;true;false;0;33053537;Municipal;5,4
-315;Nova Iguaçu;E M MARCILIO DIAS; true;false;false;false;true;true;false;false;false;true;false;0;33050163;Municipal;4,4
-316;Nova Iguaçu;E M MARCILIO DIAS; true;false;false;false;true;true;false;false;false;true;false;0;33053537;Municipal;5,4
+315;Nova IguaÃ§u;E M MARCILIO DIAS; true;false;false;false;true;true;false;false;false;true;false;0;33050163;Municipal;4,4
+316;Nova IguaÃ§u;E M MARCILIO DIAS; true;false;false;false;true;true;false;false;false;true;false;0;33053537;Municipal;5,4
 317;Duque de Caxias;E M PROFESSORA NILCELINA DOS SANTOS FERREIRA;false;false; true;false;true;true;false;true;false;true;true;0;33050180;Municipal;4,2
 318;Duque de Caxias;E E M PROFESSORA MARIA DE ARAUJO DA SILVA;false;false; true;false;false;true;false;true;false;true;true;0;33050562;Municipal;5,2
 319;Duque de Caxias;E M BARAO DA TAQUARA;false;false; true;false;false;true;false;true;false;true;true;0;33050597;Municipal;4,9
@@ -315,7 +315,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 321;Duque de Caxias;E M LUIZ GAMA BORGES;false;false;false;false;false;true;false;false;false;false;false;0;33050651;Municipal;4,7
 322;Duque de Caxias;E M SERGIPE - MUNICIPALIZADA;false;false; true;false;false;true;false;true;false;false;true;0;33050830;Municipal;6,3
 323;Duque de Caxias;E M TANCREDO NEVES;false;false; true;false;true;true;false;true;false;true;false;0;33050856;Municipal;3,6
-324;Duque de Caxias;E M PROFª AILA SALDANHA DO COUTO;false;false; true;false;false;true;false;true;false;false;false;0;33050864;Municipal;5
+324;Duque de Caxias;E M PROFÂª AILA SALDANHA DO COUTO;false;false; true;false;false;true;false;true;false;false;false;0;33050864;Municipal;5
 325;Duque de Caxias;E M BRASILIA;false;false;false;false;true;true;false;false;false;false;false;0;33050880;Municipal;4,4
 326;Duque de Caxias;E M CORACAO DE JESUS; true;false;false;false;true;false;false;false;false;true;false;0;33050902;Municipal;6,2
 327;Duque de Caxias;E M EMB OSWALDO ARANHA;false;false; true;false;false;true;false;true;false;true;true;0;33050910;Municipal;5,2
@@ -365,7 +365,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 371;Itaborai;E M GASTAO DIAS DE OLIVEIRA;false;false;false;false;false;true;false;false;false;true;false;1;33051771;Municipal;5,4
 372;Itaborai;E M PIMENTEL DE CARVALHO;false;false;false;false;false;true;false;false;false;false;false;0;33051780;Municipal;5,3
 373;Itaborai;E MZ PREF JOAO DE MAGALHAES;false;false;false;false;false;true;false;false;false;false;false;0;33051909;Municipal;4,9
-374;Itaborai;E MZ PROFª DELTA DE SOUZA PINTO;false;false; true;false;false;true;false;true;false;true;false;0;33051925;Municipal;5,5
+374;Itaborai;E MZ PROFÂª DELTA DE SOUZA PINTO;false;false; true;false;false;true;false;true;false;true;false;0;33051925;Municipal;5,5
 375;Itaborai;E M IZAURA ZAINOTTI PECCINI;false;false;false;false;false;true;false;false;false;true;false;0;33051976;Municipal;5,1
 376;Itaborai;E M AMELIA GUIMARAES FERNANDES; true;false; true;false;false;true;false;true;false;true;true;0;33052107;Municipal;5,6
 377;Itaborai;E M JOAO AUGUSTO DE ANDRADE; true;false;false;false;false;true;false;false;false;false;false;0;33052131;Municipal;6
@@ -376,7 +376,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 382;Itaborai;E M PROF MARIA CRISTINA SOARES FROES;false;false; true;false;true;false;false;true;false;true;true;0;33112703;Municipal;5,2
 383;Itaborai;E M AUTO RODRIGUES DE FREITAS;false;false; true;false;true;true;false;true;false;true;false;1;33119120;Municipal;5,5
 384;Itaborai;ESCOLA MUNICIPAL PROFESSORA SUZETE PEREIRA GOETTNAUER;false;false; true;false;false;true;false;true;false;true;true;0;33130914;Municipal;4,9
-385;Itaborai;E M PROFª MARIA ANA MOREIRA;false;false; true;false;false;true;false;true;false;false;true;1;33151555;Municipal;5,3
+385;Itaborai;E M PROFÂª MARIA ANA MOREIRA;false;false; true;false;false;true;false;true;false;false;true;1;33151555;Municipal;5,3
 386;Itaborai;EMTI JUIZA PATRICIA LOURIVAL ACIOLI;false;false; true;false;true;true;false;true;false;false;false;1;33171416;Municipal;5,3
 387;Itaborai;E M ANTONIO CARLOS RODRIGUES MORORO; true;false; true;false;true;true;false;true;false;true;true;0;33178984;Municipal;5
 388;Itaguai;CIEP BRIZOLAO 497 - MUNICIPALIZADO PROFESSORA SILVIA TUPINAMBA;false;false; true;false;true;true;false;true;false;false;false;0;33044872;Estadual;5,1
@@ -451,7 +451,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 459;Macae;CM TARCISIO PAES DE FIGUEIREDO; true;false;false;false;true;true;false;true;false;false;false;0;33168342;Municipal;5,5
 460;Macae;EM SONIA REGINA DE SOUZA LAPA;false;false;false;false;false;true;false;true;false;false;false;0;33176582;Municipal;6
 461;Macae;EM ONILDA MARIA DA COSTA;false;false;false;false;false;true;false;true;false;false;false;0;33548226;Municipal;6,3
-462;Macuco;E M PROFª SYLVIA G B BATH ROSAS;false;false; true;false;true;true;false;false;false;true;true;0;33020418;Municipal;5,6
+462;Macuco;E M PROFÂª SYLVIA G B BATH ROSAS;false;false; true;false;true;true;false;false;false;true;true;0;33020418;Municipal;5,6
 463;Macuco;E M PROF DAVID COELHO DOS SANTOS; true;false; true;false;true;true;false;false;false;true;false;0;33020507;Municipal;5,9
 464;Macuco;CIEP MUNICIPALIZADO 473 HONORIO PECANHA; true;false; true; true;true;true;false;true;false;true;true;0;33097259;Municipal;5
 465;Mage;E M BARAO DO IRIRI; true;false; true;false;true;true;false;true;false;true;false;0;33052956;Municipal;6
@@ -466,7 +466,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 474;Mage;E M HORACIO SILVA MELLO FILHO;false;false; true;false;false;true;false;true;false;false;true;0;33053200;Municipal;5,4
 475;Mage;E M JOAO ESPERIDIAO DOS SANTOS;false;false;false;false;false;true;false;true;false;false;false;0;33053219;Municipal;5,1
 476;Mage;E M DR DOMINGOS BELLIZZI; true;false;false;false;true;true;false;false;false;false;false;0;33053464;Municipal;4,1
-477;Mage;E M PROFª ELZA TEIXEIRA DE PAIVA;false;false;false;false;false;true;false;true;false;false;false;0;33053472;Municipal;5,5
+477;Mage;E M PROFÂª ELZA TEIXEIRA DE PAIVA;false;false;false;false;false;true;false;true;false;false;false;0;33053472;Municipal;5,5
 478;Mage;E M MANE GARRINCHA;false;false;false;false;false;false;false;false;false;false;false;0;33053529;Municipal;4,7
 479;Mage;E M MARIA DA PENHA MARCAL;false;false;false;false;false;true;false;false;false;false;false;0;33053545;Municipal;4,3
 480;Mage;E M PROFESSORA RENATA FRANCO PEREIRA; true;false;false;false;false;true;false;false;false;false;false;0;33053553;Municipal;5,1
@@ -582,7 +582,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 592;Niteroi;E M DR ALBERTO FRANCISCO TORRES; true; true; true;false;true;true;false;true;false;false;false;0;33056706;Municipal;5,6
 593;Niteroi;E M JOAO BRAZIL; true; true;false;false;true;true;true;false;false;false;false;0;33056757;Municipal;5,2
 594;Niteroi;E M JOSE DE ANCHIETA; true; true; true;false;true;true;false;true;false;false;true;0;33059810;Municipal;4,6
-595;Nova Iguaçu;E M JOSE DE ANCHIETA;false;false;false;false;true;true;false;true;false;true;false;0;33059810;Municipal;4,6
+595;Nova IguaÃ§u;E M JOSE DE ANCHIETA;false;false;false;false;true;true;false;true;false;true;false;0;33059810;Municipal;4,6
 596;Niteroi;E M MESTRA FININHA;false;false; true;false;true;true;false;true;true;false;false;0;33056811;Municipal;6
 597;Niteroi;E M NS DA PENHA;false;false; true;false;false;true;false;true;false;false;false;0;33056838;Municipal;5,7
 598;Niteroi;E M PADRE LEONEL FRANCA;false;false; true;false;true;true;false;true;false;false;true;0;33056846;Municipal;5,4
@@ -623,54 +623,54 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 633;Nova Friburgo;E M PATRICIA JONAS SANT ANNA; true;false; true;false;false;true;false;true;false;true;true;0;33143102;Municipal;5
 634;Nova Friburgo;E M ACYR SPITZ;false;false; true;false;false;true;false;true;false;false;true;0;33143188;Municipal;6,2
 635;Nova Friburgo;ESCOLA MUNICIPAL SAO PEDRO DA SERRA;false;false; true;false;false;true;false;true;false;true;true;0;33145377;Municipal;7
-636;Nova Friburgo;E M PROFª NAIR DE ARAUJO RODRIGUES;false;false;false;false;false;true;false;true;false;false;false;0;33145881;Municipal;4,6
+636;Nova Friburgo;E M PROFÂª NAIR DE ARAUJO RODRIGUES;false;false;false;false;false;true;false;true;false;false;false;0;33145881;Municipal;4,6
 637;Nova Friburgo;E M CECILIA MEIRELES; true;false;false;false;false;true;false;true;false;false;false;0;33145920;Municipal;6,4
 638;Nova Friburgo;E M MIGUEL RAYMUNDO DE MORAES BITTENCOURT; true;false; true;false;true;true;false;true;false;false;false;0;33213801;Municipal;5,3
-639;Nova Iguaçu;E E DE JACERUBA;false;false;false;false;true;true;false;false;false;false;false;0;33052522;Municipal;4,4
-640;Nova Iguaçu;E M VEREADOR HELCIO CHAMBARELLI;false;false; true;false;true;true;false;false;false;false;false;0;33058970;Municipal;4,6
-641;Nova Iguaçu;E M ANTONIO PINHEIRO GUIMARAES VICTORY;false;false; true;false;true;true;false;true;false;false;true;0;33059497;Municipal;4,6
-642;Nova Iguaçu;E M ALICE COUTO;false;false; true;false;true;true;false;true;false;false;false;0;33059535;Municipal;5,1
-643;Nova Iguaçu;E M CAP SILVINO AZEREDO;false;false;false;false;true;true;false;false;false;false;false;0;33059551;Municipal;4,8
-644;Nova Iguaçu;E M DR JOSE BRIGAGAO FERREIRA;false;false;false;false;true;true;false;false;false;false;false;0;33059608;Municipal;4,7
-645;Nova Iguaçu;E M DR ODIR ARAUJO;false;false; true;false;false;false;false;false;false;true;false;0;33059616;Municipal;4,7
-646;Nova Iguaçu;E M DR RUBENS FALCAO;false;false;false;false;true;true;false;true;false;false;false;0;33059632;Municipal;5,1
-647;Nova Iguaçu;ESCOLA MUNICIPAL ENGENHO PEQUENO;false;false; true;false;true;true;false;true;false;true;false;0;33059667;Municipal;4,8
-648;Nova Iguaçu;E M FRANCA CARVALHO;false;false; true;false;false;true;false;true;false;false;false;0;33059691;Municipal;5,1
-649;Nova Iguaçu;E M PRESIDENTE GETULIO DORNELLES VARGAS;false;false;false;false;false;true;false;true;false;true;false;0;33059713;Municipal;5,2
-650;Nova Iguaçu;E M GUINLE;false;false; true;false;false;true;false;true;false;true;false;0;33059721;Municipal;4,7
-651;Nova Iguaçu;E M IVONETE DOS SANTOS ALVES; true;false; true;false;false;true;false;false;false;true;false;0;33059756;Municipal;4,6
-652;Nova Iguaçu;E M PROFº RUY DE QUEIROZ;false;false; true;false;false;true;false;false;false;false;false;0;33059764;Municipal;4,7
-653;Nova Iguaçu;E M JARDIM MONTEVIDEO; true;false;false;false;true;true;false;true;false;false;false;0;33059780;Municipal;4,9
-654;Nova Iguaçu;E M JOSE LUIZ DA SILVA; true;false;false;false;true;true;false;true;false;false;false;0;33059829;Municipal;4,4
-655;Nova Iguaçu;E M MANOEL JOAO GONCALVES;false;false; true;false;true;true;false;true;false;false;false;0;33052263;Municipal;4,9
+639;Nova IguaÃ§u;E E DE JACERUBA;false;false;false;false;true;true;false;false;false;false;false;0;33052522;Municipal;4,4
+640;Nova IguaÃ§u;E M VEREADOR HELCIO CHAMBARELLI;false;false; true;false;true;true;false;false;false;false;false;0;33058970;Municipal;4,6
+641;Nova IguaÃ§u;E M ANTONIO PINHEIRO GUIMARAES VICTORY;false;false; true;false;true;true;false;true;false;false;true;0;33059497;Municipal;4,6
+642;Nova IguaÃ§u;E M ALICE COUTO;false;false; true;false;true;true;false;true;false;false;false;0;33059535;Municipal;5,1
+643;Nova IguaÃ§u;E M CAP SILVINO AZEREDO;false;false;false;false;true;true;false;false;false;false;false;0;33059551;Municipal;4,8
+644;Nova IguaÃ§u;E M DR JOSE BRIGAGAO FERREIRA;false;false;false;false;true;true;false;false;false;false;false;0;33059608;Municipal;4,7
+645;Nova IguaÃ§u;E M DR ODIR ARAUJO;false;false; true;false;false;false;false;false;false;true;false;0;33059616;Municipal;4,7
+646;Nova IguaÃ§u;E M DR RUBENS FALCAO;false;false;false;false;true;true;false;true;false;false;false;0;33059632;Municipal;5,1
+647;Nova IguaÃ§u;ESCOLA MUNICIPAL ENGENHO PEQUENO;false;false; true;false;true;true;false;true;false;true;false;0;33059667;Municipal;4,8
+648;Nova IguaÃ§u;E M FRANCA CARVALHO;false;false; true;false;false;true;false;true;false;false;false;0;33059691;Municipal;5,1
+649;Nova IguaÃ§u;E M PRESIDENTE GETULIO DORNELLES VARGAS;false;false;false;false;false;true;false;true;false;true;false;0;33059713;Municipal;5,2
+650;Nova IguaÃ§u;E M GUINLE;false;false; true;false;false;true;false;true;false;true;false;0;33059721;Municipal;4,7
+651;Nova IguaÃ§u;E M IVONETE DOS SANTOS ALVES; true;false; true;false;false;true;false;false;false;true;false;0;33059756;Municipal;4,6
+652;Nova IguaÃ§u;E M PROFÂº RUY DE QUEIROZ;false;false; true;false;false;true;false;false;false;false;false;0;33059764;Municipal;4,7
+653;Nova IguaÃ§u;E M JARDIM MONTEVIDEO; true;false;false;false;true;true;false;true;false;false;false;0;33059780;Municipal;4,9
+654;Nova IguaÃ§u;E M JOSE LUIZ DA SILVA; true;false;false;false;true;true;false;true;false;false;false;0;33059829;Municipal;4,4
+655;Nova IguaÃ§u;E M MANOEL JOAO GONCALVES;false;false; true;false;true;true;false;true;false;false;false;0;33052263;Municipal;4,9
 656;Tangua;E M MANOEL JOAO GONCALVES;false; true; true;false;false;true;false;true;false;false;false;0;33052263;Municipal;4,9
-657;Nova Iguaçu;E M MARINETE CAVALCANTE DE OLIVEIRA; true;false;false;false;false;true;false;true;false;true;false;0;33059888;Municipal;4,5
-658;Nova Iguaçu;E M DOUGLAS BRASIL; true;false;false;false;true;true;false;true;false;false;false;0;33059950;Municipal;4,9
-659;Nova Iguaçu;E M PROF IZABEL S S MELLO;false;false; true;false;false;true;false;true;false;true;false;0;33059977;Municipal;4,7
-660;Nova Iguaçu;E M PROFº MARCIO CAULINO SOARES;false; true; true;false;true;true;false;true;false;false;false;0;33060002;Municipal;5,1
-661;Nova Iguaçu;E M PROFº NABOR OTHUKI; true;false; true;false;true;true;false;true;false;true;false;0;33060010;Municipal;4,7
-662;Nova Iguaçu;E M PROFª ORNELIA LIPPI ASSUMPCAO;false;false;false;false;true;true;false;false;false;false;false;0;33060037;Municipal;4,4
-663;Nova Iguaçu;E M PROF DULCE DE MOURA RAUNHEITTI RIBEIRO;false;false;false;false;true;true;false;true;false;false;false;0;33060061;Municipal;4,9
-664;Nova Iguaçu;E M VIRGILIO DE MELO FRANCO;false;false;false;false;false;false;false;false;false;false;false;0;33060126;Municipal;5,4
-665;Nova Iguaçu;E M ADRIANOPOLIS;false;false; true;false;false;true;false;true;false;false;true;0;33060789;Municipal;4,8
-666;Nova Iguaçu;E M AMINTHAS PEREIRA; true;false;false;false;false;true;false;false;false;false;false;0;33060908;Municipal;4,8
-667;Nova Iguaçu;E M BARAO DO GUANDU;false;false; true;false;false;true;false;false;false;true;false;0;33060924;Municipal;5,1
-668;Nova Iguaçu;E M PROFª LUCIA VIANA CAPELLI; true;false; true;false;true;true;false;true;false;false;false;0;33060959;Municipal;5
-669;Nova Iguaçu;E M RUI BARBOSA;false;false; true;false;false;true;false;true;false;false;false;0;33093539;Municipal;4,8
-670;São João de Meriti;E M RUI BARBOSA;false;false; true;false;false;true;false;true;false;false;false;0;33093539;Municipal;4,8
+657;Nova IguaÃ§u;E M MARINETE CAVALCANTE DE OLIVEIRA; true;false;false;false;false;true;false;true;false;true;false;0;33059888;Municipal;4,5
+658;Nova IguaÃ§u;E M DOUGLAS BRASIL; true;false;false;false;true;true;false;true;false;false;false;0;33059950;Municipal;4,9
+659;Nova IguaÃ§u;E M PROF IZABEL S S MELLO;false;false; true;false;false;true;false;true;false;true;false;0;33059977;Municipal;4,7
+660;Nova IguaÃ§u;E M PROFÂº MARCIO CAULINO SOARES;false; true; true;false;true;true;false;true;false;false;false;0;33060002;Municipal;5,1
+661;Nova IguaÃ§u;E M PROFÂº NABOR OTHUKI; true;false; true;false;true;true;false;true;false;true;false;0;33060010;Municipal;4,7
+662;Nova IguaÃ§u;E M PROFÂª ORNELIA LIPPI ASSUMPCAO;false;false;false;false;true;true;false;false;false;false;false;0;33060037;Municipal;4,4
+663;Nova IguaÃ§u;E M PROF DULCE DE MOURA RAUNHEITTI RIBEIRO;false;false;false;false;true;true;false;true;false;false;false;0;33060061;Municipal;4,9
+664;Nova IguaÃ§u;E M VIRGILIO DE MELO FRANCO;false;false;false;false;false;false;false;false;false;false;false;0;33060126;Municipal;5,4
+665;Nova IguaÃ§u;E M ADRIANOPOLIS;false;false; true;false;false;true;false;true;false;false;true;0;33060789;Municipal;4,8
+666;Nova IguaÃ§u;E M AMINTHAS PEREIRA; true;false;false;false;false;true;false;false;false;false;false;0;33060908;Municipal;4,8
+667;Nova IguaÃ§u;E M BARAO DO GUANDU;false;false; true;false;false;true;false;false;false;true;false;0;33060924;Municipal;5,1
+668;Nova IguaÃ§u;E M PROFÂª LUCIA VIANA CAPELLI; true;false; true;false;true;true;false;true;false;false;false;0;33060959;Municipal;5
+669;Nova IguaÃ§u;E M RUI BARBOSA;false;false; true;false;false;true;false;true;false;false;false;0;33093539;Municipal;4,8
+670;SÃ£o JoÃ£o de Meriti;E M RUI BARBOSA;false;false; true;false;false;true;false;true;false;false;false;0;33093539;Municipal;4,8
 671;Teresopolis;E M RUI BARBOSA;false;false;false;false;false;true;false;true;false;false;false;0;33093539;Municipal;4,8
-672;Nova Iguaçu;E M PROF NEWTON GONCALVES DE BARROS; true;false; true;false;true;true;false;true;false;true;false;0;33132380;Municipal;4,7
-673;Nova Iguaçu;E M PROFª AIMEE CARREIRO FIGUEIREDO;false;false;false;false;true;true;false;true;false;false;false;0;33132410;Municipal;5,2
-674;Nova Iguaçu;E M PROFª MARLY TUPACINUNGA DE MATTOS;false;false; true;false;false;true;false;false;false;true;false;0;33132445;Municipal;4,7
-675;Nova Iguaçu;E M ORESTES BERNARDO CABRAL;false;false; true;false;false;true;false;true;false;false;false;0;33132640;Municipal;4,4
-676;Nova Iguaçu;E M FRANCISCO DE OLIVEIRA; true;false; true;false;false;false;false;false;false;false;true;0;33132658;Municipal;5
-678;Nova Iguaçu;E M PROF RUY AFRANIO PEIXOTO; true;false;false;false;true;true;false;false;false;false;false;0;33141959;Municipal;4,4
-679;Nova Iguaçu;ESCOLA MUNICIPAL PROFESSORA LUCIA HELENA DE LIMA;false;false; true;false;true;true;false;true;false;false;false;0;33173427;Municipal;4,1
-680;Nova Iguaçu;ESCOLA MUNICIPAL PROFESSORA CREUZA ALARCAO SOBRAL; true;false; true;false;true;true;false;true;false;false;false;0;33173435;Municipal;4,4
-681;Nova Iguaçu;EM PROFESSOR ERYK DA CRUZ LAIA; true;false; true;false;true;true;false;true;false;false;false;0;33189544;Municipal;4,5
-682;Nova Iguaçu;ESCOLA MUNICIPAL JOSE PACIFICO; true;false;false;false;true;true;false;false;false;false;false;0;33190941;Municipal;5,3
-683;Nova Iguaçu;E M PROFº HAULER DA SILVA FERREIRA; true;false; true;false;true;true;false;true;false;false;false;0;33196800;Municipal;4,9
-684;Nova Iguaçu;EM GOVERNADOR LEONEL DE MOURA BRIZOLA; true;false; true;false;true;true;false;true;false;false;false;0;33531269;Municipal;4,9
+672;Nova IguaÃ§u;E M PROF NEWTON GONCALVES DE BARROS; true;false; true;false;true;true;false;true;false;true;false;0;33132380;Municipal;4,7
+673;Nova IguaÃ§u;E M PROFÂª AIMEE CARREIRO FIGUEIREDO;false;false;false;false;true;true;false;true;false;false;false;0;33132410;Municipal;5,2
+674;Nova IguaÃ§u;E M PROFÂª MARLY TUPACINUNGA DE MATTOS;false;false; true;false;false;true;false;false;false;true;false;0;33132445;Municipal;4,7
+675;Nova IguaÃ§u;E M ORESTES BERNARDO CABRAL;false;false; true;false;false;true;false;true;false;false;false;0;33132640;Municipal;4,4
+676;Nova IguaÃ§u;E M FRANCISCO DE OLIVEIRA; true;false; true;false;false;false;false;false;false;false;true;0;33132658;Municipal;5
+678;Nova IguaÃ§u;E M PROF RUY AFRANIO PEIXOTO; true;false;false;false;true;true;false;false;false;false;false;0;33141959;Municipal;4,4
+679;Nova IguaÃ§u;ESCOLA MUNICIPAL PROFESSORA LUCIA HELENA DE LIMA;false;false; true;false;true;true;false;true;false;false;false;0;33173427;Municipal;4,1
+680;Nova IguaÃ§u;ESCOLA MUNICIPAL PROFESSORA CREUZA ALARCAO SOBRAL; true;false; true;false;true;true;false;true;false;false;false;0;33173435;Municipal;4,4
+681;Nova IguaÃ§u;EM PROFESSOR ERYK DA CRUZ LAIA; true;false; true;false;true;true;false;true;false;false;false;0;33189544;Municipal;4,5
+682;Nova IguaÃ§u;ESCOLA MUNICIPAL JOSE PACIFICO; true;false;false;false;true;true;false;false;false;false;false;0;33190941;Municipal;5,3
+683;Nova IguaÃ§u;E M PROFÂº HAULER DA SILVA FERREIRA; true;false; true;false;true;true;false;true;false;false;false;0;33196800;Municipal;4,9
+684;Nova IguaÃ§u;EM GOVERNADOR LEONEL DE MOURA BRIZOLA; true;false; true;false;true;true;false;true;false;false;false;0;33531269;Municipal;4,9
 685;Paracambi;E M ALLAN KARDEC; true;false; true;false;false;true;false;false;false;false;true;0;33038970;Municipal;6,1
 686;Queimados;E M ALLAN KARDEC;false;false;false;false;false;true;false;false;false;false;false;0;33038970;Municipal;6,1
 687;Paracambi;E M DR CARLOS NABUCO; true;false;false;false;false;true;false;true;false;true;false;0;33039054;Municipal;5,7
@@ -679,7 +679,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 690;Paracambi;ESC MUN PREFEITO HELIO FERREIRA DA SILVA; true; true; true;false;false;true;false;false;false;true;true;0;33145598;Municipal;5,9
 691;Paraiba do Sul;E M ANDRADE FIGUEIRA; true;false;false;false;true;true;false;false;false;false;false;1;33017131;Municipal;5,2
 692;Paraiba do Sul;EM ARCANJO ANTONINO LOPES; true;false; true;false;true;true;false;false;false;false;false;1;33017280;Municipal;5,1
-693;Paraiba do Sul;E M PROFª SARAH FARIA BRAZ;false;false;false;false;false;true;false;false;false;false;false;1;33017360;Municipal;6,1
+693;Paraiba do Sul;E M PROFÂª SARAH FARIA BRAZ;false;false;false;false;false;true;false;false;false;false;false;1;33017360;Municipal;6,1
 694;Paraiba do Sul;E M VEREADOR ANTONIO IGNACIO COELHO;false;false;false;false;false;true;false;false;false;false;false;2;33017476;Municipal;5,1
 695;Paraiba do Sul;E M VEREADOR ADEMIR JOSE DA SILVA;false;false; true;false;false;true;false;true;false;false;false;1;33017549;Municipal;5,9
 696;Paraiba do Sul;E M HORACIO DE MELLO;false;false;false;false;true;true;false;false;false;false;false;1;33017662;Municipal;5
@@ -734,7 +734,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 745;Pinheiral;ESCOLA MUNICIPAL MARIA DO CARMO FADUL FERREIRA;false; true; true;false;true;true;false;true;false;true;true;0;33031061;Municipal;5,5
 746;Pinheiral;E M PROFESSORA DOMINGAS ALVES FERREIRA;false;false; true;false;false;true;false;true;false;true;true;0;33031088;Municipal;6,2
 747;Pinheiral;E M TRES POCOS;false;false; true;false;false;true;false;false;false;true;true;0;33031100;Municipal;5,8
-748;Pirai;CIEP BRIZOLAO 158 PROFª MARGARIDA THOMPSON; true; true; true;false;true;true;false;false;false;true;true;0;33030618;Estadual;5,2
+748;Pirai;CIEP BRIZOLAO 158 PROFÂª MARGARIDA THOMPSON; true; true; true;false;true;true;false;false;false;true;true;0;33030618;Estadual;5,2
 749;Pirai;E M DE LAJES; true; true;false;false;true;false;false;true;false;true;false;0;33030642;Municipal;6,2
 750;Pirai;ESCOLA MUNICIPAL JOAO FELICIANO;false;false;false;false;false;true;false;false;false;true;false;0;33030693;Municipal;6,5
 751;Pirai;ESCOLA MUNICIPAL ROSA CARELLI DA COSTA; true; true; true;false;true;true;false;true;false;true;true;0;33030707;Municipal;5,9
@@ -752,13 +752,13 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 764;Queimados;E M PROFESSORA MARIA CORAGIO P XANCHAO;false;false;false;false;true;true;false;false;false;false;false;0;33093970;Municipal;4,8
 765;Queimados;E M METODISTA DE QUEIMADOS;false;false;false;false;true;true;false;true;false;false;false;0;33097089;Municipal;5,1
 766;Queimados;ESCOLA MUNICIPAL PROFESSOR UBIRAJARA FERREIRA;false;false; true;false;true;true;false;true;false;true;true;0;33145520;Municipal;5,3
-767;Quissamã;E M DELFICA DE CARVALHO WAGNER; true;false;false;false;false;true;false;false;false;false;false;0;33016666;Municipal;5
-768;Quissamã;E M IGNACIO HUGO DE SOUZA;false;false;false;false;false;true;false;false;false;false;false;0;33016690;Municipal;5,1
-769;Quissamã;E M PROFA NELITA BARCELOS DOS SANTOS;false;false;false;false;false;true;false;true;false;true;false;0;33016739;Municipal;5,4
-770;Quissamã;E M PROF MARIA ILKA DE Q E ALMEIDA; true;false;false;false;true;true;true;true;false;true;true;0;33016771;Municipal;4,9
-771;Quissamã;E M PROF MIGUEL ANGELO DA SILVA SANTOS; true;false;false;false;true;true;false;false;false;true;false;0;33138966;Municipal;5,3
-772;Quissamã;E M PROFESSORA TANIA REGINA PAULA; true;false;false;false;false;true;false;false;false;false;false;0;33153434;Municipal;5,5
-773;Quissamã;E M FELIZARDA MARIA CONCEICAO DE AZEVEDO; true;false;false;false;false;true;false;false;false;true;false;0;33222800;Municipal;4,5
+767;QuissamÃ£;E M DELFICA DE CARVALHO WAGNER; true;false;false;false;false;true;false;false;false;false;false;0;33016666;Municipal;5
+768;QuissamÃ£;E M IGNACIO HUGO DE SOUZA;false;false;false;false;false;true;false;false;false;false;false;0;33016690;Municipal;5,1
+769;QuissamÃ£;E M PROFA NELITA BARCELOS DOS SANTOS;false;false;false;false;false;true;false;true;false;true;false;0;33016739;Municipal;5,4
+770;QuissamÃ£;E M PROF MARIA ILKA DE Q E ALMEIDA; true;false;false;false;true;true;true;true;false;true;true;0;33016771;Municipal;4,9
+771;QuissamÃ£;E M PROF MIGUEL ANGELO DA SILVA SANTOS; true;false;false;false;true;true;false;false;false;true;false;0;33138966;Municipal;5,3
+772;QuissamÃ£;E M PROFESSORA TANIA REGINA PAULA; true;false;false;false;false;true;false;false;false;false;false;0;33153434;Municipal;5,5
+773;QuissamÃ£;E M FELIZARDA MARIA CONCEICAO DE AZEVEDO; true;false;false;false;false;true;false;false;false;true;false;0;33222800;Municipal;4,5
 774;Resende;CIEP BRIZOLAO 489 AUGUSTO DE CARVALHO; true;false; true;false;true;true;false;true;false;true;true;0;33031320;Estadual;5,7
 775;Resende;E M MARIA DULCE FREIRE CHAVES;false;false; true;false;true;true;false;false;false;true;true;0;33031339;Municipal;5,5
 776;Resende;E M DONA MARIUCHA; true;false; true;false;true;true;false;true;false;true;true;1;33031568;Municipal;5,4
@@ -786,7 +786,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 798;Rio Bonito;E M PROF ANTONIO FERREIRA;false;false; true;false;false;true;false;true;false;false;false;0;33044651;Municipal;5,6
 799;Rio Bonito;E M JULIO ROMERO CORDEIRO;false;false;false;false;false;true;false;false;false;false;false;0;33044678;Municipal;4,8
 800;Rio Bonito;C M DR KINGSTON GUIMARAES DE SOUZA MOTTA; true;false; true;false;false;true;false;true;false;false;false;0;33044694;Municipal;5,1
-802;São João de Meriti;E M CASIMIRO DE ABREU;false;false;false;false;true;true;false;true;false;true;false;0;33092583;Municipal;4,8
+802;SÃ£o JoÃ£o de Meriti;E M CASIMIRO DE ABREU;false;false;false;false;true;true;false;true;false;true;false;0;33092583;Municipal;4,8
 803;Rio Bonito;E M PROF ANGELO LONGO;false;false; true;false;false;true;false;false;false;false;true;0;33126046;Municipal;5,7
 804;Rio Bonito;COLEGIO MUNICIPAL MAURICIO KOPKE; true;false; true;false;true;true;false;true;false;false;true;0;33162590;Municipal;5,8
 805;Rio Claro;E M GETULANDIA; true;false; true;false;false;true;false;true;false;true;true;0;33032327;Municipal;5,2
@@ -1282,104 +1282,104 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 1305;Rio de Janeiro;0724028 ESCOLA MUNICIPAL FREI GASPAR;false;false; true;false;true;true;false;true;false;true;false;0;33228400;Municipal;4,7
 1306;Rio de Janeiro;1019073 ESCOLA MUNICIPAL PROFESSOR FRANCISCO JOSE ANTONIO; true;false; true;false;true;true;false;true;false;false;false;0;33467242;Municipal;5,3
 1307;Santa Maria Madalena;CIEP BRIZOLAO 273 - GRACIANO CARIELLO FILHO; true; true; true;false;true;true;false;true;false;true;false;0;33103550;Estadual;4
-1308;Santo Antônio de Padua;CIEP BRIZOLAO 266- EM DEPUTADO ARMINDO MARCILIO DOUTEL DE ANDRADE;false;false;false;false;true;true;false;true;false;false;false;0;33007276;Estadual;5,5
-1309;Santo Antônio de Padua;E M JOAO JAZBIK;false;false;false;false;false;true;false;false;false;false;false;0;33007438;Municipal;6,1
-1310;Santo Antônio de Padua;E M PROFESSORA SARAH FARIA BRAZ;false;false;false;false;false;true;false;true;false;false;false;0;33007462;Municipal;6,5
-1311;Santo Antônio de Padua;E M PROFESSORA MARIA PERLINGEIRO LAVAQUIAL;false;false;false;false;false;true;false;false;false;false;false;0;33007640;Municipal;6,1
-1312;Santo Antônio de Padua;C M DR LEMANT DECNOP;false;false;false;false;true;true;false;true;false;true;true;0;33007888;Municipal;6,5
-1313;Santo Antônio de Padua;ESCOLA MUNICIPAL JOAO MAURICIO BRUM;false; true;false;false;true;true;false;true;false;false;false;0;33008019;Municipal;5,9
-1314;Santo Antônio de Padua;E M PEDRO BAPTISTA DE SOUZA; true;false;false;false;true;true;false;false;false;false;false;0;33008027;Municipal;6,6
-1315;Santo Antônio de Padua;E M PROFESSORA LELIA LEITE DE FARIA;false;false;false;false;false;true;false;true;false;false;false;0;33008124;Municipal;6,5
-1316;Santo Antônio de Padua;CIEP BRIZOLAO 469 EM PROFª ANAIDE PANARO CALDAS;false;false;false;false;true;true;false;true;false;false;false;0;33097542;Estadual;6
-1317;Santo Antônio de Padua;ESCOLA MUNICIPAL ESCOLA VIVA PROFESSORA EDY BELLOTI;false;false;false;false;true;true;false;true;false;false;false;0;33139164;Municipal;5,9
-1318;São Francisco de Itabapoana;E M ANTONIO PAES VIANA;false;false;false;false;false;false;false;false;false;false;false;0;33013667;Municipal;6,5
-1319;São Francisco de Itabapoana;E M AVENTINA MARIA FERREIRA;false;false;false;false;false;true;false;false;false;false;false;0;33013810;Municipal;5,1
-1320;São Francisco de Itabapoana;E M OTAVIO PINTO DE OLIVEIRA;false;false;false;false;false;true;false;false;false;false;false;0;33013900;Municipal;6,2
-1321;São Francisco de Itabapoana;E M ARICIO LEITE LINHARES;false;false;false;false;false;true;false;false;false;false;false;0;33014183;Municipal;3,8
-1322;São Francisco de Itabapoana;E M SALVINO DA SILVA ARRUDA;false;false;false;false;false;true;false;false;false;false;false;0;33014507;Municipal;5,5
-1323;São Francisco de Itabapoana;E M ESTELITA DE ARAUJO CRESPO;false;false;false;false;false;true;false;false;false;true;false;0;33014523;Municipal;4,4
-1324;São Fidelis;E M MANOEL JOSE PEREIRA; true;false; true;false;true;true;false;false;false;false;false;0;33013268;Municipal;5,4
-1325;São Fidelis;E M NED CORDEIRO;false;false;false;false;false;true;false;false;false;false;false;0;33104123;Municipal;6
-1326;São Fidelis;EM BARAO DE MACAUBAS; true;false;false;false;true;true;false;false;false;false;false;0;33162212;Municipal;5,1
-1327;São Gonçalo;CIEP BRIZOLAO 125 PROFESSOR PAULO ROBERTO MACEDO DO AMARAL - MUNICIPALIZADO; true;false;false;false;true;true;true;false;false;false;false;0;33088934;Estadual;5,6
-1328;São Gonçalo;E E MUNICIPALIZADA BAIRRO ALMERINDA;false;false;false;false;false;true;false;false;false;false;false;0;33089329;Municipal;6,1
-1329;São Gonçalo;E E M MENTOR COUTO;false;false;false;false;false;true;false;false;false;false;false;0;33089400;Municipal;5,3
-1330;São Gonçalo;ESCOLA ESTADUAL MUNICIPALIZADA PROFESSORA NIUMA GOULART BRANDAO;false;false;false;false;false;true;false;false;false;true;true;0;33089485;Municipal;5,1
-1331;São Gonçalo;ESCOLA ESTADUAL MUNICIPALIZADA SALGADO FILHO; true;false;false;false;true;true;false;true;false;true;false;0;33089493;Municipal;4,1
-1332;São Gonçalo;ESCOLA MUNICIPAL BELARMINO RICARDO SIQUEIRA; true;false; true;false;true;true;false;true;false;true;false;0;33089523;Municipal;4,3
-1333;São Gonçalo;ESCOLA MUNICIPAL CARLOS DRUMMOND DE ANDRADE;false;false;false;false;true;true;false;true;false;true;false;0;33089566;Municipal;4,4
-1334;São Gonçalo;ESCOLA MUNICIPAL DESEMBARGADOR RONALD DE SOUZA;false;false;false;false;true;true;false;true;false;true;false;0;33089574;Municipal;6
-1335;São Gonçalo;ESCOLA MUNICIPAL DUQUE ESTRADA;false;false; true;false;false;true;false;false;false;true;true;0;33089590;Municipal;6
-1336;São Gonçalo;ESCOLA MUNICIPAL GOVERNADOR ROBERTO DA SILVEIRA;false;false;false;false;true;true;false;false;false;false;false;0;33089604;Municipal;5,3
-1337;São Gonçalo;ESCOLA MUNICIPAL JOSE MANNA JUNIOR;false;false;false;false;true;true;false;false;false;false;false;0;33089620;Municipal;5,9
-1338;São Gonçalo;ESCOLA MUNICIPAL LEONOR CORREA; true;false; true;false;true;true;false;true;false;true;false;0;33089639;Municipal;5,2
-1339;São Gonçalo;ESCOLA MUNICIPAL PROFESSOR PAULO ROBERTO MACEDO AMARAL;false;false; true;false;true;true;false;false;false;false;false;0;33089663;Municipal;5,3
-1340;São Gonçalo;ESCOLA MUNICIPAL PREFEITO JAYME MENDONCA DE CAMPOS;false;false;false;false;true;true;false;true;false;false;false;0;33089671;Municipal;5,7
-1341;São Gonçalo;ESCOLA MUNICIPAL SAO MIGUEL; true;false; true;false;false;true;false;true;false;true;true;0;33089698;Municipal;5,8
-1342;São Gonçalo;ESCOLA MUNICIPAL VALERIA DE MATTOS FONTES; true;false; true;false;false;true;false;true;false;false;false;0;33089701;Municipal;5,5
-1343;São Gonçalo;CIEP BRIZOLAO 438 -MUNICIPALIZADO RUBENS MAURICIO DA SILVA ABREU; true;false;false;false;true;true;false;true;false;false;false;0;33090181;Estadual;4,2
-1344;São Gonçalo;EM BARAO DE SAO GONCALO; true;false;false;false;true;true;false;false;false;true;false;0;33090319;Municipal;5,6
-1345;São Gonçalo;ESCOLA MUNICIPALIZADA ITAITINDIBA;false;false;false;false;true;true;false;false;false;false;false;0;33090408;Municipal;5,4
-1346;São Gonçalo;ESCOLA MUNICIPAL LEDA VARGAS GIANNERINI; true;false;false;false;true;true;true;true;false;true;true;0;33090491;Municipal;5,1
-1347;São Gonçalo;ESCOLA MUNICIPAL MARCUS VINICIUS CRUZ DE MELLO MORAES;false;false; true;false;false;true;false;true;false;true;false;0;33090505;Municipal;4,8
-1348;São Gonçalo;ESCOLA MUNICIPAL PROFESSOR PAULO ROBERTO AZEREDO; true;false;false;false;true;true;false;true;false;true;false;0;33090530;Municipal;5,8
-1349;São Gonçalo;ESCOLA MUNICIPAL RAUL VEIGA;false;false;false;false;true;true;false;true;false;true;false;0;33090556;Municipal;5,2
-1350;São Gonçalo;CIEP BRIZOLAO 051 MUNICIPALIZADO ANITA GARIBALDI; true;false;false;false;true;true;false;true;false;true;false;0;33090661;Estadual;2,7
-1351;São Gonçalo;ESCOLA ESTADUAL MUNICIPALIZADA GUAXINDIBA; true;false;false;false;true;true;false;false;false;false;false;0;33090866;Municipal;4,7
-1352;São Gonçalo;E E M CARLOS MAIA;false;false;false;false;false;true;false;false;false;false;false;0;33091366;Municipal;5,4
-1353;São Gonçalo;ESCOLA MUNICIPAL ELPIDIO DOS SANTOS; true;false;false;false;false;true;false;false;false;false;true;0;33091501;Municipal;5,5
-1354;São Gonçalo;ESCOLA MUNICIPAL JOAQUIM LAVOURA; true;false;false;false;true;true;false;true;false;false;false;0;33091528;Municipal;5,6
-1355;São Gonçalo;ESCOLA MUNICIPAL JOVITA MARIA DE JESUS;false;false;false;false;false;true;false;false;false;false;false;0;33091536;Municipal;5,5
-1356;São Gonçalo;ESCOLA MUNICIPAL DEPUTADO JOSE CARLOS BRANDAO MONTEIRO;false;false;false;false;false;true;false;false;false;false;false;0;33091919;Municipal;4,3
-1357;São Gonçalo;ESCOLA MUNICIPAL PRESIDENTE JOAO BELCHIOR MARQUES GOULART; true;false;false;false;true;true;false;true;false;false;false;0;33091935;Municipal;4,7
-1358;São Gonçalo;ESCOLA MUNICIPAL ANAIA PEQUENO; true;false;false;false;false;true;false;true;false;false;false;0;33094292;Municipal;5,2
-1359;São Gonçalo;ESCOLA MUNICIPAL DOUTOR HERACLITO FONTOURA SOBRAL PINTO;false;false;false;false;true;true;false;false;false;false;false;0;33096570;Municipal;4,9
-1360;São Gonçalo;ESCOLA MUNICIPAL DARCY RIBEIRO; true;false;false;false;true;true;false;false;false;false;false;0;33117314;Municipal;5,1
-1361;São Gonçalo;ESCOLA MUNICIPAL PROFESSOR EVADYR MOLINA; true;false;false;false;true;true;false;true;false;false;false;0;33119880;Municipal;5,1
-1362;São Gonçalo;ESCOLA MUNICIPAL PROFESSORA MARLUCY SALLES DE ALMEIDA;false;false;false;false;true;true;false;true;false;true;false;0;33120110;Municipal;5,4
-1363;São Gonçalo;ESCOLA MUNICIPAL PROFª ZULMIRA MATHIAS NETTO RIBEIRO; true;false;false;false;true;true;false;true;false;true;false;0;33129746;Municipal;4,5
-1364;São Gonçalo;ESCOLA MUNICIPAL PROFESSORA GENECY SUHETT LIMA; true;false; true;false;false;true;false;true;false;true;true;0;33153558;Municipal;5,8
-1365;São Gonçalo;ESCOLA MUNICIPAL PROFESSORA AIDA VIEIRA DE SOUZA;false;false;false;false;false;true;false;false;false;false;false;0;33153566;Municipal;5
-1366;São Gonçalo;ESCOLA MUNICIPAL PASTOR MAURO ISRAEL MOREIRA; true;false; true;false;false;true;false;true;false;false;false;0;33157928;Municipal;5,4
-1367;São Gonçalo;ESCOLA MUNICIPAL PADRE CIPRIANO DOUMA;false; true; true;false;false;true;false;false;false;true;false;0;33157936;Municipal;5,5
-1368;São Gonçalo;ESCOLA MUNICIPAL PASTOR RICARDO PARISE;false;false; true;false;true;true;false;true;false;false;false;0;33157944;Municipal;4,9
-1369;São Gonçalo;EM PASTOR JOSE AUGUSTO GRASSINI;false;false;false;false;true;true;false;true;false;false;false;0;33166528;Municipal;5
-1370;São Gonçalo;ESCOLA MUNICIPAL NICE MENDONCA DE SOUZA E SILVA; true; true;false;false;false;true;false;true;true;false;false;0;33182795;Municipal;5,5
-1371;São João da Barra;E M PROFESSORA DIONELIA GONCALVES SANTOS; true;false; true;false;false;true;false;true;false;false;false;1;33013608;Municipal;5,3
-1372;São João da Barra;ESCOLA ESTADUAL MUNICIPALIZADA FRANCISCO ALVES TOLEDO;false;false;false;false;false;true;false;false;false;false;false;0;33014540;Municipal;4
-1373;São João da Barra;ESCOLA MUNICIPAL JOSE ALVES BARRETO; true;false; true;false;true;true;false;true;false;true;true;0;33014655;Municipal;5
-1374;São João da Barra;ESCOLA MUNICIPAL MANOEL DE SOUZA GOMES; true;false;false;false;false;true;false;true;false;true;true;0;33014698;Municipal;5,4
-1375;São João da Barra;ESCOLA MUNICIPAL MANOEL GRECY MENDONCA;false;false;false;false;false;false;false;true;false;true;true;1;33014710;Municipal;5,2
-1376;São João da Barra;ESCOLA MUNICIPAL AMALIA SOARES DE ALMEIDA;false;false;false;false;true;true;false;false;false;true;false;0;33096597;Municipal;3,6
-1377;São João de Meriti;E M AMELIA BARBOSA DE MOURA;false;false;false;false;false;true;false;false;false;false;false;0;33092567;Municipal;4,3
-1378;São João de Meriti;E M FRANCISCA JEREMIAS;false;false;false;false;false;true;false;true;false;false;false;0;33092621;Municipal;4,8
-1379;São João de Meriti;ESCOLA MUNICIPAL JOSE MARQUES CASTANHEIRA;false;false; true;false;false;true;false;true;false;false;false;0;33092656;Municipal;5
-1380;São João de Meriti;E M MANOEL GONCALO;false;false;false;false;false;true;false;false;false;false;false;0;33092664;Municipal;4,4
-1381;São João de Meriti;E M PRES KENNEDY; true;false; true;false;false;true;false;true;false;false;false;0;33092702;Municipal;5,2
-1382;São João de Meriti;EMPROF VIRGILIO MACHADO; true;false;false;false;true;true;false;true;false;false;false;0;33092753;Municipal;4
-1383;São João de Meriti;CIEP BRIZOLAO 132 MUNICIPALIZADO SAO JOAO BOSCO; true;false; true;false;true;true;false;true;false;true;false;0;33093032;Estadual;4
-1384;São João de Meriti;E M GAL CHARLES DE GAULLE;false;false;false;false;true;true;false;true;false;false;false;0;33093253;Municipal;5,1
-1385;São João de Meriti;E M IGNACIO LUCAS;false;false;false;false;false;true;false;false;false;false;false;0;33093261;Municipal;5
-1386;São João de Meriti;E M MANOEL ANTONIO SENDAS; true;false; true;false;true;true;false;true;false;false;false;0;33093288;Municipal;4,9
-1387;São João de Meriti;ESCOLA MUNICIPAL IRACEMA CAMPOS FERNANDES;false;false;false;false;true;true;false;true;false;false;false;0;33138192;Municipal;4,9
-1388;São João de Meriti;E M JARDIM METROPOLE;false;false;false;false;true;true;false;true;false;false;false;0;33145768;Municipal;4,2
-1389;São João de Meriti;E M PROFESSORA LIGIA DA SILVA FRANCA;false;false; true;false;true;true;false;false;false;true;true;0;33145784;Municipal;4,2
-1390;São João de Meriti;E M VALERIO VILLAS BOAS FILHO;false;false; true;false;true;true;false;true;false;false;false;0;33149348;Municipal;4
-1391;São João de Meriti;E M PROFESSORA ALMERINDA LEITE DE ABREU;false;false;false;false;false;true;false;false;false;true;false;0;33174199;Municipal;5,6
-1392;São João de Meriti;E M ANTONIO GUEDES;false;false; true;false;false;true;false;true;false;true;false;0;33216835;Municipal;4
-1393;São Jose de Uba;E M ANTONIO JOSE CURTY;false;false;false;false;false;true;false;true;false;false;false;1;33005702;Municipal;6
-1394;São Jose de Uba;E M PROFESSORA MARIA DE LOURDES ANTUNES CAMPOS; true;false; true;false;true;true;false;true;false;false;false;1;33005788;Municipal;6,8
-1395;São Jose de Uba;E M MARIA RAMOS DE AZEVEDO;false;false;false;false;true;true;false;false;false;false;false;1;33125430;Municipal;6,1
-1396;São Jose do Vale do Rio Preto;E M SANTA ISABEL; true;false;false;false;true;true;false;false;false;true;true;0;33042071;Municipal;5,5
-1397;São Jose do Vale do Rio Preto;E M CARDEAL DOM SEBASTIAO LEME;false;false;false;false;false;true;false;false;false;false;false;0;33042144;Municipal;4,7
-1398;São Jose do Vale do Rio Preto;E M BARAO DE AGUAS CLARAS;false;false;false;false;true;true;false;false;false;true;false;0;33042179;Municipal;5,8
-1399;São Jose do Vale do Rio Preto;E M IRENE LIMA;false;false; true;false;false;true;false;true;false;true;true;0;33042195;Municipal;5,2
-1400;São Jose do Vale do Rio Preto;ESC MUL PREFEITO BIANOR MARTINS ESTEVES; true; true; true;false;true;true;false;true;false;true;false;0;33145571;Municipal;6,3
-1401;São Pedro da Aldeia;E M BARNABE MARIANO DE SOUZA;false;false;false;false;false;true;false;true;false;false;false;0;33158339;Municipal;5,3
-1402;São Sebastião do Alto;E E MUNICIPALIZADA MANUEL BITTENCOURT DA SILVA JUNIOR; true;false; true;false;false;true;false;false;false;false;false;0;33024596;Municipal;5,8
-1403;São Sebastião do Alto;E M PROFESSORA VERA PEREIRA CARDOSO; true;false; true;false;false;true;false;false;false;false;true;1;33138052;Municipal;6,7
-1404;São Sebastião do Alto;E M JULIO VIEITAS;false;false; true;false;false;true;false;true;false;true;true;1;33226202;Municipal;4,9
-1405;Sapucaia;E M DRª MARIA DE LOURDES SALOMAO;false;false;false;false;false;true;false;false;false;false;false;0;33017832;Municipal;5,7
+1308;Santo AntÃ´nio de Padua;CIEP BRIZOLAO 266- EM DEPUTADO ARMINDO MARCILIO DOUTEL DE ANDRADE;false;false;false;false;true;true;false;true;false;false;false;0;33007276;Estadual;5,5
+1309;Santo AntÃ´nio de Padua;E M JOAO JAZBIK;false;false;false;false;false;true;false;false;false;false;false;0;33007438;Municipal;6,1
+1310;Santo AntÃ´nio de Padua;E M PROFESSORA SARAH FARIA BRAZ;false;false;false;false;false;true;false;true;false;false;false;0;33007462;Municipal;6,5
+1311;Santo AntÃ´nio de Padua;E M PROFESSORA MARIA PERLINGEIRO LAVAQUIAL;false;false;false;false;false;true;false;false;false;false;false;0;33007640;Municipal;6,1
+1312;Santo AntÃ´nio de Padua;C M DR LEMANT DECNOP;false;false;false;false;true;true;false;true;false;true;true;0;33007888;Municipal;6,5
+1313;Santo AntÃ´nio de Padua;ESCOLA MUNICIPAL JOAO MAURICIO BRUM;false; true;false;false;true;true;false;true;false;false;false;0;33008019;Municipal;5,9
+1314;Santo AntÃ´nio de Padua;E M PEDRO BAPTISTA DE SOUZA; true;false;false;false;true;true;false;false;false;false;false;0;33008027;Municipal;6,6
+1315;Santo AntÃ´nio de Padua;E M PROFESSORA LELIA LEITE DE FARIA;false;false;false;false;false;true;false;true;false;false;false;0;33008124;Municipal;6,5
+1316;Santo AntÃ´nio de Padua;CIEP BRIZOLAO 469 EM PROFÂª ANAIDE PANARO CALDAS;false;false;false;false;true;true;false;true;false;false;false;0;33097542;Estadual;6
+1317;Santo AntÃ´nio de Padua;ESCOLA MUNICIPAL ESCOLA VIVA PROFESSORA EDY BELLOTI;false;false;false;false;true;true;false;true;false;false;false;0;33139164;Municipal;5,9
+1318;SÃ£o Francisco de Itabapoana;E M ANTONIO PAES VIANA;false;false;false;false;false;false;false;false;false;false;false;0;33013667;Municipal;6,5
+1319;SÃ£o Francisco de Itabapoana;E M AVENTINA MARIA FERREIRA;false;false;false;false;false;true;false;false;false;false;false;0;33013810;Municipal;5,1
+1320;SÃ£o Francisco de Itabapoana;E M OTAVIO PINTO DE OLIVEIRA;false;false;false;false;false;true;false;false;false;false;false;0;33013900;Municipal;6,2
+1321;SÃ£o Francisco de Itabapoana;E M ARICIO LEITE LINHARES;false;false;false;false;false;true;false;false;false;false;false;0;33014183;Municipal;3,8
+1322;SÃ£o Francisco de Itabapoana;E M SALVINO DA SILVA ARRUDA;false;false;false;false;false;true;false;false;false;false;false;0;33014507;Municipal;5,5
+1323;SÃ£o Francisco de Itabapoana;E M ESTELITA DE ARAUJO CRESPO;false;false;false;false;false;true;false;false;false;true;false;0;33014523;Municipal;4,4
+1324;SÃ£o Fidelis;E M MANOEL JOSE PEREIRA; true;false; true;false;true;true;false;false;false;false;false;0;33013268;Municipal;5,4
+1325;SÃ£o Fidelis;E M NED CORDEIRO;false;false;false;false;false;true;false;false;false;false;false;0;33104123;Municipal;6
+1326;SÃ£o Fidelis;EM BARAO DE MACAUBAS; true;false;false;false;true;true;false;false;false;false;false;0;33162212;Municipal;5,1
+1327;SÃ£o GonÃ§alo;CIEP BRIZOLAO 125 PROFESSOR PAULO ROBERTO MACEDO DO AMARAL - MUNICIPALIZADO; true;false;false;false;true;true;true;false;false;false;false;0;33088934;Estadual;5,6
+1328;SÃ£o GonÃ§alo;E E MUNICIPALIZADA BAIRRO ALMERINDA;false;false;false;false;false;true;false;false;false;false;false;0;33089329;Municipal;6,1
+1329;SÃ£o GonÃ§alo;E E M MENTOR COUTO;false;false;false;false;false;true;false;false;false;false;false;0;33089400;Municipal;5,3
+1330;SÃ£o GonÃ§alo;ESCOLA ESTADUAL MUNICIPALIZADA PROFESSORA NIUMA GOULART BRANDAO;false;false;false;false;false;true;false;false;false;true;true;0;33089485;Municipal;5,1
+1331;SÃ£o GonÃ§alo;ESCOLA ESTADUAL MUNICIPALIZADA SALGADO FILHO; true;false;false;false;true;true;false;true;false;true;false;0;33089493;Municipal;4,1
+1332;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL BELARMINO RICARDO SIQUEIRA; true;false; true;false;true;true;false;true;false;true;false;0;33089523;Municipal;4,3
+1333;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL CARLOS DRUMMOND DE ANDRADE;false;false;false;false;true;true;false;true;false;true;false;0;33089566;Municipal;4,4
+1334;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL DESEMBARGADOR RONALD DE SOUZA;false;false;false;false;true;true;false;true;false;true;false;0;33089574;Municipal;6
+1335;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL DUQUE ESTRADA;false;false; true;false;false;true;false;false;false;true;true;0;33089590;Municipal;6
+1336;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL GOVERNADOR ROBERTO DA SILVEIRA;false;false;false;false;true;true;false;false;false;false;false;0;33089604;Municipal;5,3
+1337;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL JOSE MANNA JUNIOR;false;false;false;false;true;true;false;false;false;false;false;0;33089620;Municipal;5,9
+1338;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL LEONOR CORREA; true;false; true;false;true;true;false;true;false;true;false;0;33089639;Municipal;5,2
+1339;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PROFESSOR PAULO ROBERTO MACEDO AMARAL;false;false; true;false;true;true;false;false;false;false;false;0;33089663;Municipal;5,3
+1340;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PREFEITO JAYME MENDONCA DE CAMPOS;false;false;false;false;true;true;false;true;false;false;false;0;33089671;Municipal;5,7
+1341;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL SAO MIGUEL; true;false; true;false;false;true;false;true;false;true;true;0;33089698;Municipal;5,8
+1342;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL VALERIA DE MATTOS FONTES; true;false; true;false;false;true;false;true;false;false;false;0;33089701;Municipal;5,5
+1343;SÃ£o GonÃ§alo;CIEP BRIZOLAO 438 -MUNICIPALIZADO RUBENS MAURICIO DA SILVA ABREU; true;false;false;false;true;true;false;true;false;false;false;0;33090181;Estadual;4,2
+1344;SÃ£o GonÃ§alo;EM BARAO DE SAO GONCALO; true;false;false;false;true;true;false;false;false;true;false;0;33090319;Municipal;5,6
+1345;SÃ£o GonÃ§alo;ESCOLA MUNICIPALIZADA ITAITINDIBA;false;false;false;false;true;true;false;false;false;false;false;0;33090408;Municipal;5,4
+1346;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL LEDA VARGAS GIANNERINI; true;false;false;false;true;true;true;true;false;true;true;0;33090491;Municipal;5,1
+1347;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL MARCUS VINICIUS CRUZ DE MELLO MORAES;false;false; true;false;false;true;false;true;false;true;false;0;33090505;Municipal;4,8
+1348;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PROFESSOR PAULO ROBERTO AZEREDO; true;false;false;false;true;true;false;true;false;true;false;0;33090530;Municipal;5,8
+1349;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL RAUL VEIGA;false;false;false;false;true;true;false;true;false;true;false;0;33090556;Municipal;5,2
+1350;SÃ£o GonÃ§alo;CIEP BRIZOLAO 051 MUNICIPALIZADO ANITA GARIBALDI; true;false;false;false;true;true;false;true;false;true;false;0;33090661;Estadual;2,7
+1351;SÃ£o GonÃ§alo;ESCOLA ESTADUAL MUNICIPALIZADA GUAXINDIBA; true;false;false;false;true;true;false;false;false;false;false;0;33090866;Municipal;4,7
+1352;SÃ£o GonÃ§alo;E E M CARLOS MAIA;false;false;false;false;false;true;false;false;false;false;false;0;33091366;Municipal;5,4
+1353;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL ELPIDIO DOS SANTOS; true;false;false;false;false;true;false;false;false;false;true;0;33091501;Municipal;5,5
+1354;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL JOAQUIM LAVOURA; true;false;false;false;true;true;false;true;false;false;false;0;33091528;Municipal;5,6
+1355;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL JOVITA MARIA DE JESUS;false;false;false;false;false;true;false;false;false;false;false;0;33091536;Municipal;5,5
+1356;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL DEPUTADO JOSE CARLOS BRANDAO MONTEIRO;false;false;false;false;false;true;false;false;false;false;false;0;33091919;Municipal;4,3
+1357;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PRESIDENTE JOAO BELCHIOR MARQUES GOULART; true;false;false;false;true;true;false;true;false;false;false;0;33091935;Municipal;4,7
+1358;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL ANAIA PEQUENO; true;false;false;false;false;true;false;true;false;false;false;0;33094292;Municipal;5,2
+1359;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL DOUTOR HERACLITO FONTOURA SOBRAL PINTO;false;false;false;false;true;true;false;false;false;false;false;0;33096570;Municipal;4,9
+1360;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL DARCY RIBEIRO; true;false;false;false;true;true;false;false;false;false;false;0;33117314;Municipal;5,1
+1361;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PROFESSOR EVADYR MOLINA; true;false;false;false;true;true;false;true;false;false;false;0;33119880;Municipal;5,1
+1362;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PROFESSORA MARLUCY SALLES DE ALMEIDA;false;false;false;false;true;true;false;true;false;true;false;0;33120110;Municipal;5,4
+1363;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PROFÂª ZULMIRA MATHIAS NETTO RIBEIRO; true;false;false;false;true;true;false;true;false;true;false;0;33129746;Municipal;4,5
+1364;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PROFESSORA GENECY SUHETT LIMA; true;false; true;false;false;true;false;true;false;true;true;0;33153558;Municipal;5,8
+1365;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PROFESSORA AIDA VIEIRA DE SOUZA;false;false;false;false;false;true;false;false;false;false;false;0;33153566;Municipal;5
+1366;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PASTOR MAURO ISRAEL MOREIRA; true;false; true;false;false;true;false;true;false;false;false;0;33157928;Municipal;5,4
+1367;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PADRE CIPRIANO DOUMA;false; true; true;false;false;true;false;false;false;true;false;0;33157936;Municipal;5,5
+1368;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL PASTOR RICARDO PARISE;false;false; true;false;true;true;false;true;false;false;false;0;33157944;Municipal;4,9
+1369;SÃ£o GonÃ§alo;EM PASTOR JOSE AUGUSTO GRASSINI;false;false;false;false;true;true;false;true;false;false;false;0;33166528;Municipal;5
+1370;SÃ£o GonÃ§alo;ESCOLA MUNICIPAL NICE MENDONCA DE SOUZA E SILVA; true; true;false;false;false;true;false;true;true;false;false;0;33182795;Municipal;5,5
+1371;SÃ£o JoÃ£o da Barra;E M PROFESSORA DIONELIA GONCALVES SANTOS; true;false; true;false;false;true;false;true;false;false;false;1;33013608;Municipal;5,3
+1372;SÃ£o JoÃ£o da Barra;ESCOLA ESTADUAL MUNICIPALIZADA FRANCISCO ALVES TOLEDO;false;false;false;false;false;true;false;false;false;false;false;0;33014540;Municipal;4
+1373;SÃ£o JoÃ£o da Barra;ESCOLA MUNICIPAL JOSE ALVES BARRETO; true;false; true;false;true;true;false;true;false;true;true;0;33014655;Municipal;5
+1374;SÃ£o JoÃ£o da Barra;ESCOLA MUNICIPAL MANOEL DE SOUZA GOMES; true;false;false;false;false;true;false;true;false;true;true;0;33014698;Municipal;5,4
+1375;SÃ£o JoÃ£o da Barra;ESCOLA MUNICIPAL MANOEL GRECY MENDONCA;false;false;false;false;false;false;false;true;false;true;true;1;33014710;Municipal;5,2
+1376;SÃ£o JoÃ£o da Barra;ESCOLA MUNICIPAL AMALIA SOARES DE ALMEIDA;false;false;false;false;true;true;false;false;false;true;false;0;33096597;Municipal;3,6
+1377;SÃ£o JoÃ£o de Meriti;E M AMELIA BARBOSA DE MOURA;false;false;false;false;false;true;false;false;false;false;false;0;33092567;Municipal;4,3
+1378;SÃ£o JoÃ£o de Meriti;E M FRANCISCA JEREMIAS;false;false;false;false;false;true;false;true;false;false;false;0;33092621;Municipal;4,8
+1379;SÃ£o JoÃ£o de Meriti;ESCOLA MUNICIPAL JOSE MARQUES CASTANHEIRA;false;false; true;false;false;true;false;true;false;false;false;0;33092656;Municipal;5
+1380;SÃ£o JoÃ£o de Meriti;E M MANOEL GONCALO;false;false;false;false;false;true;false;false;false;false;false;0;33092664;Municipal;4,4
+1381;SÃ£o JoÃ£o de Meriti;E M PRES KENNEDY; true;false; true;false;false;true;false;true;false;false;false;0;33092702;Municipal;5,2
+1382;SÃ£o JoÃ£o de Meriti;EMPROF VIRGILIO MACHADO; true;false;false;false;true;true;false;true;false;false;false;0;33092753;Municipal;4
+1383;SÃ£o JoÃ£o de Meriti;CIEP BRIZOLAO 132 MUNICIPALIZADO SAO JOAO BOSCO; true;false; true;false;true;true;false;true;false;true;false;0;33093032;Estadual;4
+1384;SÃ£o JoÃ£o de Meriti;E M GAL CHARLES DE GAULLE;false;false;false;false;true;true;false;true;false;false;false;0;33093253;Municipal;5,1
+1385;SÃ£o JoÃ£o de Meriti;E M IGNACIO LUCAS;false;false;false;false;false;true;false;false;false;false;false;0;33093261;Municipal;5
+1386;SÃ£o JoÃ£o de Meriti;E M MANOEL ANTONIO SENDAS; true;false; true;false;true;true;false;true;false;false;false;0;33093288;Municipal;4,9
+1387;SÃ£o JoÃ£o de Meriti;ESCOLA MUNICIPAL IRACEMA CAMPOS FERNANDES;false;false;false;false;true;true;false;true;false;false;false;0;33138192;Municipal;4,9
+1388;SÃ£o JoÃ£o de Meriti;E M JARDIM METROPOLE;false;false;false;false;true;true;false;true;false;false;false;0;33145768;Municipal;4,2
+1389;SÃ£o JoÃ£o de Meriti;E M PROFESSORA LIGIA DA SILVA FRANCA;false;false; true;false;true;true;false;false;false;true;true;0;33145784;Municipal;4,2
+1390;SÃ£o JoÃ£o de Meriti;E M VALERIO VILLAS BOAS FILHO;false;false; true;false;true;true;false;true;false;false;false;0;33149348;Municipal;4
+1391;SÃ£o JoÃ£o de Meriti;E M PROFESSORA ALMERINDA LEITE DE ABREU;false;false;false;false;false;true;false;false;false;true;false;0;33174199;Municipal;5,6
+1392;SÃ£o JoÃ£o de Meriti;E M ANTONIO GUEDES;false;false; true;false;false;true;false;true;false;true;false;0;33216835;Municipal;4
+1393;SÃ£o Jose de Uba;E M ANTONIO JOSE CURTY;false;false;false;false;false;true;false;true;false;false;false;1;33005702;Municipal;6
+1394;SÃ£o Jose de Uba;E M PROFESSORA MARIA DE LOURDES ANTUNES CAMPOS; true;false; true;false;true;true;false;true;false;false;false;1;33005788;Municipal;6,8
+1395;SÃ£o Jose de Uba;E M MARIA RAMOS DE AZEVEDO;false;false;false;false;true;true;false;false;false;false;false;1;33125430;Municipal;6,1
+1396;SÃ£o Jose do Vale do Rio Preto;E M SANTA ISABEL; true;false;false;false;true;true;false;false;false;true;true;0;33042071;Municipal;5,5
+1397;SÃ£o Jose do Vale do Rio Preto;E M CARDEAL DOM SEBASTIAO LEME;false;false;false;false;false;true;false;false;false;false;false;0;33042144;Municipal;4,7
+1398;SÃ£o Jose do Vale do Rio Preto;E M BARAO DE AGUAS CLARAS;false;false;false;false;true;true;false;false;false;true;false;0;33042179;Municipal;5,8
+1399;SÃ£o Jose do Vale do Rio Preto;E M IRENE LIMA;false;false; true;false;false;true;false;true;false;true;true;0;33042195;Municipal;5,2
+1400;SÃ£o Jose do Vale do Rio Preto;ESC MUL PREFEITO BIANOR MARTINS ESTEVES; true; true; true;false;true;true;false;true;false;true;false;0;33145571;Municipal;6,3
+1401;SÃ£o Pedro da Aldeia;E M BARNABE MARIANO DE SOUZA;false;false;false;false;false;true;false;true;false;false;false;0;33158339;Municipal;5,3
+1402;SÃ£o SebastiÃ£o do Alto;E E MUNICIPALIZADA MANUEL BITTENCOURT DA SILVA JUNIOR; true;false; true;false;false;true;false;false;false;false;false;0;33024596;Municipal;5,8
+1403;SÃ£o SebastiÃ£o do Alto;E M PROFESSORA VERA PEREIRA CARDOSO; true;false; true;false;false;true;false;false;false;false;true;1;33138052;Municipal;6,7
+1404;SÃ£o SebastiÃ£o do Alto;E M JULIO VIEITAS;false;false; true;false;false;true;false;true;false;true;true;1;33226202;Municipal;4,9
+1405;Sapucaia;E M DRÂª MARIA DE LOURDES SALOMAO;false;false;false;false;false;true;false;false;false;false;false;0;33017832;Municipal;5,7
 1406;Sapucaia;E E CLUBE DOS DUZENTOS;false;false;false;false;false;false;false;false;false;true;false;0;33018006;Municipal;5,5
 1407;Sapucaia;EM PAULINO FERNANDES; true;false;false;false;true;true;false;false;false;false;false;0;33519285;Municipal;5,2
 1408;Saquarema;ESCOLA MUNICIPAL BELINO CATHARINO DE SOUZA;false;false; true;false;false;true;false;true;false;true;false;0;33028745;Municipal;4,7
@@ -1446,26 +1446,26 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 1469;Trajano de Moraes;E M DOUTOR JOSE DE MORAES SOUZA;false;false; true;false;true;true;false;false;false;false;false;0;33145890;Municipal;4,3
 1470;Trajano de Moraes;ESCOLA MZ HONESTALDA DE MORAES MARTINS;false;false;false;false;false;true;false;false;false;false;false;0;33145911;Municipal;5,1
 1471;Trajano de Moraes;E M JOAO DE MORAES MARTINS; true;false;false;false;false;true;false;false;false;false;false;0;33149992;Municipal;5,4
-1472;Três Rios;CIEP 427 - PREFEITO ALBERTO LAVINAS; true; true; true;false;true;true;false;true;false;true;false;0;33018278;Estadual;4,1
-1473;Três Rios;E M AMERICO SILVA;false;false;false;false;false;true;false;false;true;true;false;0;33018456;Municipal;6
-1474;Três Rios;E M EURIDICE FERREIRA;false;false;false;false;false;false;false;false;false;false;false;0;33018499;Municipal;5,1
-1475;Três Rios;E M JOVINA DE FIGUEIREDO SALLES;false;false;false;false;false;false;false;true;false;true;false;0;33018529;Municipal;5,8
-1476;Três Rios;E M JUVENTINO DA MOTTA MORAES;false;false;false;false;true;true;false;false;false;true;false;0;33018537;Municipal;4,8
-1477;Três Rios;E M LAURA DA SILVA RIBAS;false;false;false;false;false;true;false;true;false;true;false;0;33018545;Municipal;4,8
-1478;Três Rios;E M LEILA APARECIDA DE ALMEIDA;false;false;false;false;false;true;false;true;false;true;true;0;33018553;Municipal;4,7
-1479;Três Rios;E M MARGARETHA SCHOLLER;false;false;false;false;true;true;false;false;false;true;false;0;33018561;Municipal;4,9
-1480;Três Rios;E M MARIA DAS GRACAS VIEIRA;false;false;false;false;true;false;false;true;false;false;false;0;33018570;Municipal;4,6
-1481;Três Rios;ESCOLA MUNICIPAL NOSSA SENHORA APARECIDA;false;false;false;false;false;true;false;true;false;true;false;0;33018596;Municipal;4,9
-1482;Valença;ESCOLA MUNICIPAL NOSSA SENHORA APARECIDA;false;false; true;false;false;true;false;true;false;false;true;0;33018596;Municipal;4,9
-1483;Três Rios;E M SANTA LUZIA;false;false;false;false;false;true;false;true;false;true;false;0;33018618;Municipal;4,5
-1484;Três Rios;E E M GUILHERMINA GUINLE; true;false;false;false;false;true;false;false;false;true;true;0;33018715;Municipal;5,7
-1485;Três Rios;E M LUTHER KING;false;false; true;false;false;true;false;true;false;true;true;0;33155143;Municipal;4,9
-1486;Valença;ESCOLA MUNICIPAL MARIA DO CARMO OSORIO CAMPOS;false;false; true;false;true;true;false;false;false;false;false;0;33035660;Municipal;4,7
-1487;Valença;E M FERNANDO DE OLIVEIRA CASTRO; true;false;false;false;false;true;false;false;false;true;true;0;33035822;Municipal;4
-1488;Valença;E M PROF MARIA DA GLORIA GIFFONI;false;false; true;false;false;true;false;true;false;true;true;0;33035903;Municipal;6,4
-1489;Valença;E M TELSINO PEREIRA SOUZA;false;false; true;false;false;false;false;false;false;false;true;0;33035946;Municipal;5,4
-1490;Valença;ESCOLA MUNICIPAL PINGO DE MEL; true;false;false;false;false;false;false;false;false;false;false;0;33102031;Municipal;5,9
-1491;Valença;E M JOAO BAPTISTA GOMES;false;false; true;false;false;true;false;false;false;false;true;0;33154619;Municipal;4,1
+1472;TrÃªs Rios;CIEP 427 - PREFEITO ALBERTO LAVINAS; true; true; true;false;true;true;false;true;false;true;false;0;33018278;Estadual;4,1
+1473;TrÃªs Rios;E M AMERICO SILVA;false;false;false;false;false;true;false;false;true;true;false;0;33018456;Municipal;6
+1474;TrÃªs Rios;E M EURIDICE FERREIRA;false;false;false;false;false;false;false;false;false;false;false;0;33018499;Municipal;5,1
+1475;TrÃªs Rios;E M JOVINA DE FIGUEIREDO SALLES;false;false;false;false;false;false;false;true;false;true;false;0;33018529;Municipal;5,8
+1476;TrÃªs Rios;E M JUVENTINO DA MOTTA MORAES;false;false;false;false;true;true;false;false;false;true;false;0;33018537;Municipal;4,8
+1477;TrÃªs Rios;E M LAURA DA SILVA RIBAS;false;false;false;false;false;true;false;true;false;true;false;0;33018545;Municipal;4,8
+1478;TrÃªs Rios;E M LEILA APARECIDA DE ALMEIDA;false;false;false;false;false;true;false;true;false;true;true;0;33018553;Municipal;4,7
+1479;TrÃªs Rios;E M MARGARETHA SCHOLLER;false;false;false;false;true;true;false;false;false;true;false;0;33018561;Municipal;4,9
+1480;TrÃªs Rios;E M MARIA DAS GRACAS VIEIRA;false;false;false;false;true;false;false;true;false;false;false;0;33018570;Municipal;4,6
+1481;TrÃªs Rios;ESCOLA MUNICIPAL NOSSA SENHORA APARECIDA;false;false;false;false;false;true;false;true;false;true;false;0;33018596;Municipal;4,9
+1482;ValenÃ§a;ESCOLA MUNICIPAL NOSSA SENHORA APARECIDA;false;false; true;false;false;true;false;true;false;false;true;0;33018596;Municipal;4,9
+1483;TrÃªs Rios;E M SANTA LUZIA;false;false;false;false;false;true;false;true;false;true;false;0;33018618;Municipal;4,5
+1484;TrÃªs Rios;E E M GUILHERMINA GUINLE; true;false;false;false;false;true;false;false;false;true;true;0;33018715;Municipal;5,7
+1485;TrÃªs Rios;E M LUTHER KING;false;false; true;false;false;true;false;true;false;true;true;0;33155143;Municipal;4,9
+1486;ValenÃ§a;ESCOLA MUNICIPAL MARIA DO CARMO OSORIO CAMPOS;false;false; true;false;true;true;false;false;false;false;false;0;33035660;Municipal;4,7
+1487;ValenÃ§a;E M FERNANDO DE OLIVEIRA CASTRO; true;false;false;false;false;true;false;false;false;true;true;0;33035822;Municipal;4
+1488;ValenÃ§a;E M PROF MARIA DA GLORIA GIFFONI;false;false; true;false;false;true;false;true;false;true;true;0;33035903;Municipal;6,4
+1489;ValenÃ§a;E M TELSINO PEREIRA SOUZA;false;false; true;false;false;false;false;false;false;false;true;0;33035946;Municipal;5,4
+1490;ValenÃ§a;ESCOLA MUNICIPAL PINGO DE MEL; true;false;false;false;false;false;false;false;false;false;false;0;33102031;Municipal;5,9
+1491;ValenÃ§a;E M JOAO BAPTISTA GOMES;false;false; true;false;false;true;false;false;false;false;true;0;33154619;Municipal;4,1
 1492;Varre-Sai;ESCOLA MUNICIPAL PRIMO JOSE SOBREIRA;false;false; true;false;false;false;false;false;false;false;false;0;33004439;Municipal;4,8
 1493;Varre-Sai;E M CRUZ DA ANA; true;false;false;false;false;true;false;false;false;false;false;0;33004510;Municipal;3,9
 1494;Varre-Sai;E M ELIDIO VALENTIM DE MORAES; true;false; true;false;false;true;false;false;false;false;false;0;33004552;Municipal;5,7
@@ -1480,7 +1480,7 @@ index;NO_MUNICIPIO;NO_ENTIDADE;IN_BIBLIOTECA;IN_LABORATORIO_CIENCIAS;IN_LABORATO
 1503;Volta Redonda;E M DOM WALDYR CALHEIROS DE NOVAES;false; true; true;false;true;true;false;true;false;true;true;0;33030928;Municipal;5,5
 1504;Volta Redonda;E M AMAZONAS;false;false; true;false;true;true;false;true;false;true;false;0;33033277;Municipal;6,8
 1505;Volta Redonda;E M BAHIA;false;false; true;false;true;true;false;true;false;true;true;0;33033307;Municipal;6,2
-1506;Volta Redonda;E M PROFª ANTONIETTA MOTTA BASTOS;false;false; true;false;false;true;false;true;true;true;true;0;33033315;Municipal;6,9
+1506;Volta Redonda;E M PROFÂª ANTONIETTA MOTTA BASTOS;false;false; true;false;false;true;false;true;true;true;true;0;33033315;Municipal;6,9
 1507;Volta Redonda;E M DAMIAO MEDEIROS; true;false; true;false;false;true;false;true;false;false;true;0;33033331;Municipal;6,3
 1508;Volta Redonda;ESCOLA MUNICIPAL FERNANDO DE NORONHA;false; true; true;false;true;true;false;true;true;true;true;0;33033382;Municipal;6,2
 1509;Volta Redonda;E M GOIAS; true;false; true;false;false;true;false;false;false;true;true;0;33033404;Municipal;5,3
