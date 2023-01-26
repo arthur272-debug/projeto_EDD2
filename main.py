@@ -1,15 +1,4 @@
-from app import App;
+import pandas as pd;
 
-uri = "neo4j+s://022d3bae.databases.neo4j.io";
-user = "neo4j";
-password = "Rf_gN6gzpHdxIyY2igyj53n-W6SYo9YjlIucAOc8RMI"
+data = pd.read_csv("escolas_ideb_v2.csv");
 
-app = App(
-    uri=uri, 
-    user=user, 
-    password=password
-);
-
-app.deleteAll();
-
-app.close();
