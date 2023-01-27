@@ -4,7 +4,7 @@ from here_api import geocode;
 
 headers = pd.read_csv("escolas_ideb_v2.csv", nrows=0).columns;
 
-data = pd.read_csv("escolas_ideb_v2.csv", skiprows=866, names=headers, nrows=1000);
+data = pd.read_csv("escolas_ideb_v2.csv", skiprows=1866, names=headers, nrows=1000);
 
 data = data.assign(latitude=None);
 data = data.assign(longitude=None);
@@ -33,5 +33,5 @@ for i, linha in data.iterrows():
             logging.error(e);
     
 
-data.to_csv("escolas_ideb_coordenadas2.csv");
+data.to_csv("escolas_ideb_coordenadas3.csv");
 

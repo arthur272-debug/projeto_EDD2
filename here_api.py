@@ -5,6 +5,7 @@ import os;
 
 load_dotenv();
 
+# É SÓ INSERIR A CHAVE DA API AQUI
 api_key = os.getenv("HERE_API_KEY");
 
 base_url = f"https://geocode.search.hereapi.com/v1/geocode?apiKey={api_key}&qq=";
