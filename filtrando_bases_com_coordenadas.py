@@ -10,5 +10,9 @@ base3 = base3.drop(columns=["Unnamed: 0"]);
 
 tabela = pd.concat([base1, base2, base3], ignore_index=True);
 
+tabela = tabela[(tabela["latitude"].notna()) & (tabela["longitude"].notna())];
+
+tabela = tabela.reset_index(drop=True);
+
 print(tabela);
 tabela.to_csv("base.csv");
