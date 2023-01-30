@@ -9,9 +9,11 @@
  ### Banco de dados (csv)
  - https://github.com/arthur272-debug/projeto_EDD2/blob/main/Dados_revisados.csv
 
-### Linguagem de programação utilizada do projeto: Python
+### Linguagem de programação utilizada do projeto
+ - Python
 
-### Estrutura de dados utilizada: Grafos 
+### Estrutura de dados utilizada
+- Grafos
 
 ### Bibliotecas Utilizadas
 
