@@ -18,7 +18,6 @@
 ### Bibliotecas Utilizadas
 
 <ul>
- <li> MySQLConnect; 
  <li>Pandas;
  <li>Pydot; 
  <li>graphlib; 
